@@ -1,0 +1,1 @@
+PATH=/usr/lib/jvm/jdk1.8.0_112/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/xiaorui/下载/Hex2bin-2.3:/home/xiaorui/Test/mybin:/home/xiaorui/Test/mybin
